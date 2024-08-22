@@ -7,7 +7,7 @@
 }
 
 :root   {
-    -webkit-tap-highlight-color: #0000;
+    -webkit-tap-highlight-color: #3bb7fa;
 }
 
 body{
@@ -62,7 +62,7 @@ canvas {
     height: 270px;
     top: 0;
     left: 0;
-    background-color: #3bb7fa;
+    background-color: #6fa8dc;
     clip-path: circle(400px at 50% -48.5%);
 }
 
